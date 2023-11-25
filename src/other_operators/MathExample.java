@@ -12,6 +12,14 @@ public class MathExample {
         System.out.println(Math.round(3.7));
         System.out.println(Math.ceil(2.01));
         System.out.println(Math.floor(2.99));
+        System.out.println(Math.E);
+        System.out.println(Math.PI);
+        System.out.println(Math.toRadians(180)); // kthe gradet ne radians
+        System.out.println(Math.toDegrees(1.75)); // kthe ne shkalle
+        System.out.println(Math.sin(Math.toRadians(90)));
+        System.out.println(Math.sin(Math.toRadians(180)));
+        System.out.println(Math.cos(Math.toRadians(90)));
+        System.out.println(Math.tan(Math.toRadians(90)));
 
 
     }
