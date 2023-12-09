@@ -25,6 +25,7 @@ public class Paga {
             System.out.println("paga mbi mesatare");
         else
             System.out.println("page e lart");
+        
 
     }
 
