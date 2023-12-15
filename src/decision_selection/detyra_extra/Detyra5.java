@@ -2,7 +2,7 @@ package decision_selection.detyra_extra;
 
 import java.util.Scanner;
 
-public class detyra5 {
+public class Detyra5 {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
 
