@@ -6,7 +6,7 @@ public class Factor {
     public static void main(String[] args) {
         Scanner reader = new Scanner(System.in);
         long n = reader.nextLong();
-        for (int i = 2; i <= n / i; i++) {
+        for (int i = 2; i <= n; i++) {
             while (n % i == 0) {
                 System.out.printf("%d ", i);
                 n = n / i;
